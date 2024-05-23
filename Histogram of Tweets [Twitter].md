@@ -36,7 +36,7 @@ In other words, group the users by the number of tweets they posted in 2022 and 
 ***
 
 ## Solution
-I started by looking for the amount of tweets per user_id
+I started by looking for the amount of tweets per ``user_id``
 
 ````sql
 SELECT user_id, COUNT(*) AS tweet_count
@@ -52,7 +52,7 @@ which returned:
 | 254 | 1 |
 | 111 | 2 |
 
-Afterwards I changed the column tweet_count to tweet_bucket and used it as a subquery.
+Afterwards I changed the column ``tweet_count`` to ``tweet_bucket`` and used it as a subquery.
 
 ````sql
 SELECT tweet_bucket, COUNT(user_id) AS users_num
@@ -71,7 +71,7 @@ which returned:
 | 1 | 2 |
 | 2 | 1 |
 
-An alternative solution is to use a WITH statement:
+An alternative solution is to use a ``WITH`` statement:
 
 ````sql
 WITH tweet_count AS (
