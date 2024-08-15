@@ -22,9 +22,8 @@ The `caller_id` in `phone_info` table refers to both the caller and receiver.
 
 ### Relational Diagram
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/b6b09caf-9ebb-4b42-8b86-4856fbce5eb3"/>
+  <img src="https://github.com/user-attachments/assets/21c5e5f4-2f0c-42b9-ba88-f23bf416904c"/>
 </p>
-
 
 ### Tables
 
