@@ -17,7 +17,7 @@ Assume you are given the table below on Uber transactions made by users. Write a
 
 ### Relational Diagram
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/62ba725b-8796-4f50-aa9e-68d30c480dba"/>
+  <img src="https://github.com/user-attachments/assets/95b54175-6bbc-433a-a8fb-f0428423de22"/>
 </p>
 
 ### Table
