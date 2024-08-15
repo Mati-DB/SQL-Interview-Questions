@@ -14,8 +14,8 @@ This web has interview questions marked as easy, medium and hard. Below you'll f
 ### Medium
 <ins>Requirements</ins>: _use of CTEs, window functions and join operations._
 
- - [Uber's Third Transaction [Uber]](https://github.com/Mati-DB/SQL-Interview-Questions-Lvl2/blob/main/Uber's%20Third%20Transaction%20%5BUber%5D.md)
- - [International Call Percentage [Verizon]](https://github.com/Mati-DB/SQL-Interview-Questions-Lvl2/blob/main/International%20Call%20Percentage%20%5BVerizon%5D.md)
+ - [Uber's Third Transaction [Uber]](https://github.com/Mati-DB/SQL-Interview-Questions/blob/main/Uber's%20Third%20Transaction%20%5BUber%5D.md)
+ - [International Call Percentage [Verizon]](https://github.com/Mati-DB/SQL-Interview-Questions/blob/main/International%20Call%20Percentage%20%5BVerizon%5D.md)
 
 ### Hard
 <ins>Requirements</ins>: _date manipulation, use of CTEs, join operations, grouping and aggreggation, and conditional filtering._
