@@ -12,7 +12,7 @@ This web has interview questions marked as easy, medium and hard. Below you'll f
  - [Page With No Likes [Facebook]](https://github.com/Mati-DB/SQL-Interview-Questions/blob/main/Page%20With%20No%20Likes%20%5BFacebook%5D.md)
 
 ### Medium
-<ins>Requirements</ins>: _ use of CTEs, window functions and join operations._
+<ins>Requirements</ins>: _use of CTEs, window functions and join operations._
 
  - [Uber's Third Transaction [Uber]](https://github.com/Mati-DB/SQL-Interview-Questions-Lvl2/blob/main/Uber's%20Third%20Transaction%20%5BUber%5D.md)
  - [International Call Percentage [Verizon]](https://github.com/Mati-DB/SQL-Interview-Questions-Lvl2/blob/main/International%20Call%20Percentage%20%5BVerizon%5D.md)
