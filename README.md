@@ -20,4 +20,4 @@ This web has interview questions marked as easy, medium and hard. Below you'll f
 ### Hard
 <ins>Requirements</ins>: _date manipulation, use of CTEs, join operations, grouping and aggreggation, and conditional filtering._
 
- - [Active User Retention [Facebook]]()
+ - [Active User Retention [Facebook]](https://github.com/Mati-DB/SQL-Interview-Questions/blob/main/Active%20User%20Retention%20%5BFacebook%5D.md)
